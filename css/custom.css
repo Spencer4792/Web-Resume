@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* tableau section homepage */
+p.tableauheader {text-align: center;}
+
+/* resume section */
+.resume {}
+.resume h2{border-bottom: 2px solid #2c3e50!important; color:#2c3e50}
+.resume .subheader {font-weight: bold; font-size: 1.5rem; margin-bottom: 0;}
+.resume .college {font-weight: normal; font-size: 1.25rem; margin: 0;}
+.resume .date {position: relative;font-style: italic;}
+.resume .mycoolstyle{position: absolute; right: 0;}
+
+/* tableau section, A custom background color */
+.portfolio {background-color: #f0f0f0;}
+/* At least four style definitions (it is possible you will have many more than four styles)
+Styles that specify font color
+Styles that specify font family */
